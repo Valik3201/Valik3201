@@ -1,11 +1,10 @@
 <div align="center">
-  <style>
-  .white-icon {
-    filter: invert(100%); /* Инвертируем цвет иконки, чтобы сделать его белым */
-  }
-</style>
+  
+<img src="https://simpleicons.org/icons/github.svg" alt="GitHub Icon" width="100">
 
-<img class="white-icon" src="https://simpleicons.org/icons/github.svg" width="100" />
+<p>
+  <img src="https://simpleicons.org/icons/github.svg" style="filter: invert(100%);" alt="GitHub Icon (Inverted)" width="100">
+</p>
 
 
   <h1>
