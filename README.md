@@ -1,5 +1,12 @@
 <div align="center">
-  <img src="https://simpleicons.org/icons/github.svg" width="100"/>
+  <style>
+  .white-icon {
+    filter: invert(100%); /* Инвертируем цвет иконки, чтобы сделать его белым */
+  }
+</style>
+
+<img class="white-icon" src="https://simpleicons.org/icons/github.svg" width="100" />
+
 
   <h1>
     Hey, I'm Valik! 👋
@@ -15,7 +22,7 @@ I'm an aspiring Web Developer, deeply passionate about coding and creating web a
 - 🇬🇧 English - intermediate
 
 ### 💻 Projects:
-
+<!-- TO DO: add projcets later -->
 
 ### 🧩 Stack and Tools:
 - HTML5 | CSS3 | JavaScript
