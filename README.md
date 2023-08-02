@@ -7,7 +7,7 @@
 </div>
 
 ### 👨‍💻 About Me:
-I'm at the beginning of my journey in Web Development, but I'm already deeply passionate about it! 🚀 I find immense joy in coding and creating web applications that can solve real-world problems.  I've been actively learning through courses and hands-on projects, continually honing my skills. My main focus areas include Frontend Development, Full Stack Development, and Web Design. Embracing the ever-evolving tech landscape, I'm always eager to delve into new technologies and discover exciting possibilities.
+I'm an aspiring Web Developer, deeply passionate about coding and creating web applications. 🚀 Actively learning through courses and hands-on projects, my main focus areas are Frontend Development, Full Stack Development, and Web Design. Excited to explore new technologies and endless possibilities! 😊
 
 🌐 Languages: 
 - 🇺🇦 Ukrainian - native 
