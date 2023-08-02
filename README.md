@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="100"/>
+  <img src="https://simpleicons.org/icons/github.svg" width="100"/>
 
   <h1>
     Hey there, I'm Valik!
