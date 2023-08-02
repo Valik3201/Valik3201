@@ -3,7 +3,7 @@
 
   <h1>
     Hey there, I'm Valik!
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30px"/>
+    <img src="https://simpleicons.org/icons/angellist.svg" width="30px"/>
   </h1>
 </div>
 
