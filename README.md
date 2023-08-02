@@ -2,8 +2,7 @@
   <img src="https://simpleicons.org/icons/github.svg" width="100"/>
 
   <h1>
-    Hey there, I'm Valik!
-    <img src="https://simpleicons.org/icons/angellist.svg" width="30px"/>
+    Hey, I'm Valik! 👋
   </h1>
 </div>
 
