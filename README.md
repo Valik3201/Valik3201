@@ -1,11 +1,10 @@
 <div align="center">
   
-<img src="https://simpleicons.org/icons/github.svg" alt="GitHub Icon" width="100">
-
-<p>
-  <img src="https://simpleicons.org/icons/github.svg" style="filter: invert(100%);" alt="GitHub Icon (Inverted)" width="100">
-</p>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://simpleicons.org/icons/git.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://simpleicons.org/icons/github.svg">
+  <img alt="GitHub Icon" src="https://simpleicons.org/icons/github.svg" width="100">
+</picture>
 
   <h1>
     Hey, I'm Valik! 👋
