@@ -7,7 +7,7 @@
 </div>
 
 ### 👨‍💻 About Me:
-I am a passionate self-taught developer with a love for coding and creating web applications. 🚀 I have been learning web development for over a year and enjoy building projects that solve real-world problems. My areas of interest include Frontend Development, UI/UX Design, and Open Source.
+I'm at the beginning of my journey in Web Development, but I'm already deeply passionate about it! 🚀 I find immense joy in coding and creating web applications that can solve real-world problems.  I've been actively learning through courses and hands-on projects, continually honing my skills. My main focus areas include Frontend Development, Full Stack Development, and Web Design. Embracing the ever-evolving tech landscape, I'm always eager to delve into new technologies and discover exciting possibilities.
 
 🌐 Languages: 
 - 🇺🇦 Ukrainian - native 
