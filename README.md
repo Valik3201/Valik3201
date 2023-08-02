@@ -14,10 +14,10 @@ I'm at the beginning of my journey in Web Development, but I'm already deeply pa
 - 🇵🇱 Polish - advanced
 - 🇬🇧 English - intermediate
 
-### Projects:
+### 💻 Projects:
 
 
-### Stack and Tools:
+### 🧩 Stack and Tools:
 - HTML5 | CSS3 | JavaScript
 - React | Node.js
 - Git | GitHub
