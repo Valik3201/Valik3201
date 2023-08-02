@@ -23,9 +23,9 @@ I'm an aspiring Web Developer, deeply passionate about coding and creating web a
 - Git | GitHub
 - Visual Studio Code
 - Figma
-
-### GitHub Stats:
-![Valik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Valik3201&show_icons=true&count_private=true&hide_border=true)
+  
+<!--  ### GitHub Stats:
+![Valik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Valik3201&show_icons=true&count_private=true&hide_border=true) -->
 
 ### Let's Connect:
 - [GitHub](https://github.com/Valik3201)
