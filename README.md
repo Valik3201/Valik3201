@@ -21,6 +21,9 @@ I'm an aspiring Web Developer, deeply passionate about coding and creating web a
 
 ### 💻 Projects:
 <!-- TO DO: add projcets later -->
+- **Project 1**: [Tea2Go](https://valik3201.github.io/Tea2Go/) - A website built with HTML, CSS, and JavaScript.
+- **Project 2**: [WebStudio]() - A website built with HTML, CSS, and JavaScript.
+
 
 ### 🧩 Stack and Tools:
 - HTML5 | CSS3 | JavaScript
