@@ -7,17 +7,17 @@
 </picture>
 
   <h1>
-    Hey, I'm Valik! 👋
+    Hi, I'm Valik! 👋
   </h1>
 </div>
 
 ### 👨‍💻 About Me:
 I'm an aspiring Web Developer, deeply passionate about coding and creating web applications. 🚀 Currently learning new skills through courses and projects. My main focus areas are Frontend Development, Full Stack Development, and Web Design. Excited to explore new technologies and endless possibilities! 😊
 
-🌐 Languages: 
+<!-- 🌐 Languages: 
 - 🇺🇦 Ukrainian - native 
 - 🇵🇱 Polish - advanced
-- 🇬🇧 English - intermediate
+- 🇬🇧 English - intermediate -->
 
 ### 💻 Projects:
 <!-- TO DO: add projcets later -->
@@ -31,11 +31,10 @@ I'm an aspiring Web Developer, deeply passionate about coding and creating web a
 - Git | GitHub
 - Visual Studio Code
 - Figma
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valik3201&layout=compact)
   
 <!--  ### GitHub Stats:
 ![Valik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Valik3201&show_icons=true&count_private=true&hide_border=true) -->
 
-### Let's Connect:
-- [GitHub](https://github.com/Valik3201)
-- [LinkedIn](https://www.linkedin.com/in/valentynchernetskyi/)
-- Email: valik3201@gmail.com
+### 📫 How to reach me valik3201@gmail.com
