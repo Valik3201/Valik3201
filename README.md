@@ -49,6 +49,7 @@ Web Developer with keen attention to detail and a passion for continuous learnin
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" height="30" alt="github logo"  />
 </div>
+<br />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valik3201&layout=compact)
   
