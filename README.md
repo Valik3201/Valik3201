@@ -47,7 +47,7 @@ Web Developer with keen attention to detail and a passion for continuous learnin
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" height="30" alt="adobe illustrator logo"  />
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" height="30" alt="github logo"  />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" height="30" alt="git logo"  />
 </div>
 <br />
 
