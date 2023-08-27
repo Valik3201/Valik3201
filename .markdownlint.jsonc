@@ -1,0 +1,5 @@
+{
+  "markdownlintConfig": {
+    "MD033": false
+  }
+}
