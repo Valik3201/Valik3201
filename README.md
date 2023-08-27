@@ -25,7 +25,7 @@ Web Developer with keen attention to detail and a passion for continuous learnin
 - **Project 2**: [Tea2Go](https://valik3201.github.io/Tea2Go/) - Interactive website for an non-real café, featuring a range of teas. Developed using HTML, CSS, and JavaScript interactivity.
 
 
-### 🧩 Stack and Tools:
+### 🧩 Skills & Tools:
 <div align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="30" alt="html logo"  />
   <img width="12" />
