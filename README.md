@@ -12,7 +12,7 @@
 </div>
 
 ### 👨‍💻 About Me:
-I'm an aspiring Web Developer, deeply passionate about coding and creating web applications. 🚀 Currently learning new skills through courses and projects. My main focus areas are Frontend Development, Full Stack Development, and Web Design. Excited to explore new technologies and endless possibilities! 😊
+Web Developer with keen attention to detail and a passion for continuous learning. 🚀 Striving for perfection in crafting web solutions while constantly expanding my skill set. 😊
 
 <!-- 🌐 Languages: 
 - 🇺🇦 Ukrainian - native 
@@ -21,16 +21,34 @@ I'm an aspiring Web Developer, deeply passionate about coding and creating web a
 
 ### 💻 Projects:
 <!-- TO DO: add projcets later -->
-- **Project 1**: [Tea2Go](https://valik3201.github.io/Tea2Go/) - A website built with HTML, CSS, and JavaScript.
-- **Project 2**: Web Studio - A website built with HTML, CSS, and JavaScript.
+- **Project 1**: [Web Studio](https://valik3201.github.io/WebStudio/) - Responsive web platform for a design agency, incorporating semantic HTML, CSS styling, JavaScript interactivity, and a mobile-friendly layout.
+- - **Project 2**: [Tea2Go](https://valik3201.github.io/Tea2Go/) - Interactive website for an non-real café, featuring a range of teas. Developed using HTML, CSS, and JavaScript interactivity.
 
 
 ### 🧩 Stack and Tools:
-- HTML5 | CSS3 | JavaScript
-- React | Node.js
-- Git | GitHub
-- Visual Studio Code
-- Figma
+<div align="left">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="30" alt="html logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" height="30" alt="adobe photoshop logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" height="30" alt="adobe illustrator logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" height="30" alt="github logo"  />
+</div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valik3201&layout=compact)
   
