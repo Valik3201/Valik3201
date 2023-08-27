@@ -12,7 +12,7 @@
 </div>
 
 ### 👨‍💻 About Me:
-Web Developer with keen attention to detail and a passion for continuous learning. 🚀 Striving for perfection in crafting web solutions while constantly expanding my skill set. 😊
+Web Developer with keen attention to detail and a passion for continuous learning. 📚 Striving for perfection in crafting web solutions while constantly expanding my skill set. 🚀
 
 <!-- 🌐 Languages: 
 - 🇺🇦 Ukrainian - native 
