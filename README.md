@@ -22,7 +22,7 @@ Web Developer with keen attention to detail and a passion for continuous learnin
 ### 💻 Projects:
 <!-- TO DO: add projcets later -->
 - **Project 1**: [Web Studio](https://valik3201.github.io/WebStudio/) - Responsive web platform for a design agency, incorporating semantic HTML, CSS styling, JavaScript interactivity, and a mobile-friendly layout.
-- **Project 2**: [Tea2Go](https://valik3201.github.io/Tea2Go/)- Interactive website for an non-real café, featuring a range of teas. Developed using HTML, CSS, and JavaScript interactivity.
+- **Project 2**: [Tea2Go](https://valik3201.github.io/Tea2Go/) - Interactive website for an non-real café, featuring a range of teas. Developed using HTML, CSS, and JavaScript interactivity.
 
 
 ### 🧩 Skills & Tools:
