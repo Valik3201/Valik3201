@@ -53,6 +53,7 @@ Web Developer with keen attention to detail and a passion for continuous learnin
 <br />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valik3201&layout=compact)
+[![Profile Views](https://visitcount.itsvg.in/api?id=valik3201&label=Profile%20Views&color=1&icon=1&pretty=true)](https://visitcount.itsvg.in)
   
 <!--  ### GitHub Stats:
 ![Valik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Valik3201&show_icons=true&count_private=true&hide_border=true) -->
