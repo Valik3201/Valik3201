@@ -36,6 +36,10 @@ Web Developer with keen attention to detail and a passion for continuous learnin
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" height="30" alt="webpack logo"  />
+  <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
