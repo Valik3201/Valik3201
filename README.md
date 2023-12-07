@@ -63,4 +63,4 @@ Web Developer with keen attention to detail and a passion for continuous learnin
 
 ### 📫 How to reach me valik3201@gmail.com
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=valik3201&label=Profile%20Views&color=1&icon=1&pretty=true)](https://visitcount.itsvg.in)
+[![Profile Views](https://visitcount.itsvg.in/api?id=valik3201&label=Profile%20Views&color=12&icon=1&pretty=false)](https://visitcount.itsvg.in)
