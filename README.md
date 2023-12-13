@@ -21,8 +21,9 @@ Web Developer with keen attention to detail and a passion for continuous learnin
 
 ### 💻 Projects:
 <!-- TO DO: add projcets later -->
+- **[To Do App](https://valik3201.github.io/todo-list/)** - Todo App solution with Firebase integration. Responsive design, theme switching, and drag-and-drop functionality.
+- **[PIXIFY](https://valik3201.github.io/goit-js-hw-11/)** - Web application that allows users to search and display images using the Pixabay API. The project includes features such as HTTP requests, image cards, pagination, SimpleLightbox library integration, smooth page scrolling, and even infinite scrolling.
 - **[Web Studio](https://valik3201.github.io/WebStudio/)** - Responsive web platform for a design agency, incorporating semantic HTML, CSS styling, JavaScript interactivity, and a mobile-friendly layout.
-- **[Tea2Go](https://valik3201.github.io/Tea2Go/)** - Interactive website for an non-real café, featuring a range of teas. Developed using HTML, CSS, and JavaScript interactivity.
 - **[easybank](https://valik3201.github.io/easybank/)** - This is a responsive landing page solution for the Easybank challenge on Frontend Mentor. It's built using HTML, SCSS, and JavaScript, with a user-friendly design.
 
 
@@ -58,8 +59,8 @@ Web Developer with keen attention to detail and a passion for continuous learnin
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valik3201&layout=compact)
   
-<!--  ### GitHub Stats:
-![Valik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Valik3201&show_icons=true&count_private=true&hide_border=true) -->
+### GitHub Stats:
+![Valik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Valik3201&show_icons=true&count_private=true&hide_border=true)
 
 ### 📫 How to reach me valik3201@gmail.com
 
