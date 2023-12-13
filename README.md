@@ -59,8 +59,8 @@ Web Developer with keen attention to detail and a passion for continuous learnin
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valik3201&layout=compact)
   
-### GitHub Stats:
-![Valik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Valik3201&show_icons=true&count_private=true&hide_border=true)
+<!-- ### GitHub Stats:
+![Valik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Valik3201&show_icons=true&count_private=true&hide_border=true) -->
 
 ### 📫 How to reach me valik3201@gmail.com
 
