@@ -29,31 +29,31 @@ Web Developer with keen attention to detail and a passion for continuous learnin
 
 ### 🧩 Skills & Tools:
 <div align="left">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="30" alt="html logo"  />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" height="50" alt="html logo"  />
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" height="50" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg" height="50" alt="sass logo"  />
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" height="50" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Light.svg" height="50" alt="firebase logo"  />
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" height="30" alt="webpack logo"  />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Webpack-Light.svg" height="50" alt="webpack logo"  />
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" height="50" alt="react logo"  />
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" height="50" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Light.svg" height="50" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" height="50" alt="figma logo"  />
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" height="30" alt="adobe photoshop logo"  />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg" height="50" alt="adobe photoshop logo"  />
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" height="30" alt="adobe illustrator logo"  />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Illustrator.svg" height="50" alt="adobe illustrator logo"  />
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" height="50" alt="git logo"  />
 </div>
 <br />
 
