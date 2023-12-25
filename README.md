@@ -59,9 +59,12 @@ Web Developer with keen attention to detail and a passion for continuous learnin
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valik3201&layout=compact)
   
-<!-- ### GitHub Stats:
-![Valik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Valik3201&show_icons=true&count_private=true&hide_border=true) -->
+<!--### GitHub Stats:
+![Valik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Valik3201&show_icons=true&count_private=true&hide_border=true)-->
 
-### 📫 How to reach me valik3201@gmail.com
+### 📫 How to reach me
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat)](mailto:valik3201@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat)](https://www.linkedin.com/in/valentynchernetskyi/)
 
 [![Profile Views](https://visitcount.itsvg.in/api?id=valik3201&label=Profile%20Views&color=12&icon=1&pretty=false)](https://visitcount.itsvg.in)
