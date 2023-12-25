@@ -30,29 +30,29 @@ Web Developer with keen attention to detail and a passion for continuous learnin
 ### 🧩 Skills & Tools:
 <div align="left">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" height="50" alt="html logo"  />
-  <img width="12" />
+  <img width="6" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" height="50" alt="css3 logo"  />
-  <img width="12" />
+  <img width="6" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg" height="50" alt="sass logo"  />
-  <img width="12" />
+  <img width="6" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" height="50" alt="javascript logo"  />
-  <img width="12" />
+  <img width="6" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Light.svg" height="50" alt="firebase logo"  />
-  <img width="12" />
+  <img width="6" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Webpack-Light.svg" height="50" alt="webpack logo"  />
-  <img width="12" />
+  <img width="6" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" height="50" alt="react logo"  />
-  <img width="12" />
+  <img width="6" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" height="50" alt="nodejs logo"  />
-  <img width="12" />
+  <img width="6" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Light.svg" height="50" alt="vscode logo"  />
-  <img width="12" />
+  <img width="6" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" height="50" alt="figma logo"  />
-  <img width="12" />
+  <img width="6" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg" height="50" alt="adobe photoshop logo"  />
-  <img width="12" />
+  <img width="6" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Illustrator.svg" height="50" alt="adobe illustrator logo"  />
-  <img width="12" />
+  <img width="6" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" height="50" alt="git logo"  />
 </div>
 <br />
