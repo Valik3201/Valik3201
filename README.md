@@ -20,13 +20,12 @@ Web Developer with keen attention to detail and a passion for continuous learnin
 - 🇬🇧 English - intermediate -->
 
 ### 💻 Projects:
-<!-- TO DO: add projcets later -->
 - **[To Do App](https://valik3201.github.io/todo-list/)** - Todo App solution with Firebase integration. ✅ Responsive design, theme switching, and drag-and-drop functionality. 📝
 - **[PIXIFY](https://valik3201.github.io/goit-js-hw-11/)** - Web application that allows users to search and display images using the Pixabay API. 📷 The project includes features such as HTTP requests, image cards, pagination, SimpleLightbox library integration, smooth page scrolling, and even infinite scrolling.
 - **[Tic Tac Toe](https://valik3201.github.io/tic-tac-toe/)** - *33 hours of captivating JavaScript work. Challenges in game logic and 11 unexpected files.* 🤔 Tic Tac Toe game with a primary focus on pure JavaScript and the Minimax algorithm for optimal AI moves. 🕹️ Check out my solution and give it a try!  🚀
+- **[Bookshelf](https://valik3201.github.io/bookshelf/)** - Collaborative web project that lets you explore and select books from bestsellers and various categories! 📚 After logging in, you can even curate your personalized Shopping List. 🛒 Built with HTML, SCSS/CSS, JavaScript, Axios, Firebase, and more. Check it out! 🚀
 - **[Web Studio](https://valik3201.github.io/WebStudio/)** - Responsive web platform for a design agency, incorporating semantic HTML, CSS styling, JavaScript interactivity, and a mobile-friendly layout. 🖥️
 - **[easybank](https://valik3201.github.io/easybank/)** - This is a responsive landing page solution for the Easybank challenge on Frontend Mentor. 🏦 It's built using HTML, SCSS, and JavaScript, with a user-friendly design.
-
 
 ### 🧩 Skills & Tools:
 <div align="left">
