@@ -51,6 +51,8 @@ Web Developer with keen attention to detail and a passion for continuous learnin
   <img width="6" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg" height="50" alt="adobe photoshop logo"  />
   <img width="6" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" height="50" alt="bootstrap logo"  />
+  <img width="6" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Illustrator.svg" height="50" alt="adobe illustrator logo"  />
   <img width="6" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" height="50" alt="git logo"  />
