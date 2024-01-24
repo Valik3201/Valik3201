@@ -27,7 +27,7 @@ Web Developer with keen attention to detail and a passion for continuous learnin
 - **[Web Studio](https://valik3201.github.io/WebStudio/)** - Responsive web platform for a design agency, incorporating semantic HTML, CSS styling, JavaScript interactivity, and a mobile-friendly layout. 🖥️
 - **[easybank](https://valik3201.github.io/easybank/)** - This is a responsive landing page solution for the Easybank challenge on Frontend Mentor. 🏦 It's built using HTML, SCSS, and JavaScript, with a user-friendly design.
 
-### 🧩 Skills & Tools:
+### Skills:
 <div align="left">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" height="50" alt="html logo"  />
   <img width="6" />
@@ -37,26 +37,27 @@ Web Developer with keen attention to detail and a passion for continuous learnin
   <img width="6" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" height="50" alt="javascript logo"  />
   <img width="6" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Light.svg" height="50" alt="firebase logo"  />
-  <img width="6" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Webpack-Light.svg" height="50" alt="webpack logo"  />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" height="50" alt="bootstrap logo"  />
   <img width="6" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" height="50" alt="react logo"  />
   <img width="6" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" height="50" alt="nodejs logo"  />
-  <img width="6" />
+</div>
+
+### Tools:
+
+<div align="left">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Light.svg" height="50" alt="vscode logo"  />
   <img width="6" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" height="50" alt="figma logo"  />
   <img width="6" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg" height="50" alt="adobe photoshop logo"  />
   <img width="6" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" height="50" alt="bootstrap logo"  />
-  <img width="6" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Illustrator.svg" height="50" alt="adobe illustrator logo"  />
   <img width="6" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" height="50" alt="git logo"  />
 </div>
+
 <br />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valik3201&layout=compact)
