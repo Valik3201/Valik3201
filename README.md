@@ -14,6 +14,7 @@
 ### 👨‍💻 About Me:
 Web Developer with keen attention to detail and a passion for continuous learning. 📚 Striving for perfection in crafting web solutions while constantly expanding my skill set. 🚀
 
+#### 🌱 Currently Learning: `React`
 <!-- 🌐 Languages: 
 - 🇺🇦 Ukrainian - native 
 - 🇵🇱 Polish - advanced
