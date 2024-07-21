@@ -2,7 +2,7 @@
 
 ### 👨‍💻 About Me:
 
-**Frontend Developer** | A minimalist with a keen eye for perfection, dedicated to optimizing every aspect of my work. I place a high premium on delivering outstanding user experiences. Experienced with React.js and Next.js, and always exploring new technologies and opportunities for growth. 🌟🚀
+**Frontend Developer** | A minimalist with a keen eye for perfection, dedicated to optimizing every aspect of my work. I place a high premium on delivering outstanding user experiences. Experienced with `React.js` and `Next.js`, and always exploring new technologies and opportunities for growth. 🌟🚀
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valik3201&layout=compact)
 
