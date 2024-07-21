@@ -2,7 +2,7 @@
 
 ### 👨‍💻 About Me:
 
-**Fullstack Developer** | Passionate about building robust web applications from frontend to backend. Experienced in technologies like `HTML`, `CSS`, `JavaScript`, `React`, `Node.js`, and more. Always eager to learn and explore new technologies. 💻🌐
+**Frontend Developer** | A minimalist with a keen eye for perfection, dedicated to optimizing every aspect of my work. I place a high premium on delivering outstanding user experiences. Experienced with React.js and Next.js, and always exploring new technologies and opportunities for growth. 🌟🚀
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valik3201&layout=compact)
 
